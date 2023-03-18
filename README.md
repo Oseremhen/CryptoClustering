@@ -21,3 +21,5 @@
 
 ### comparing combined scatter plot
 <img width="696" alt="Screenshot 2023-03-18 at 10 48 35 AM" src="https://user-images.githubusercontent.com/106120403/226113723-9449d9cf-05a6-4fb3-98a2-6f195de8d60b.png">
+
+Using fewer to cluster the data helps us visually understand the plot. The effect of this is that it looses some of its accuracy. As can be seen on the combined elbow curve above, the optimal n_cluster is evident on the red line (PCA elbow curve) than on the blue line. The scatter plot of the PCA data is clearer to understand. It seems to be more concentrated on the markers that are closer together than the original scatter plot.
