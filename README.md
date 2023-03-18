@@ -1,6 +1,4 @@
-# CryptoClustering
-An analysis to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
-
+# An analysis to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 <img width="938" alt="Screenshot 2023-03-18 at 11 00 48 AM" src="https://user-images.githubusercontent.com/106120403/226113826-966bcf3a-d8c4-4f9d-ab07-904e2126f99c.png">
 
 ### Visualising the data 
